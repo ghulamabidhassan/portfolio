@@ -188,6 +188,7 @@ nav {
 
 .heading {
   font-size: 1.75em;
+  text-transform: capitalize;
   color: #525f7f;
 }
 
