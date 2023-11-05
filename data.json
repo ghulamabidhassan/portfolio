@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Chart the Stock Market",
+    "desc": "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    "stack": ["html", "css", "javascript", "reactjs", "scss"],
+    "demo": "https://www.google.com/",
+    "source": "https://github.com/ghulamabidhassan",
+    "image": "./images/vector.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Chart the Stock Market",
+    "desc": "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    "stack": ["html", "css", "javascript", "reactjs"],
+    "demo": "https://www.google.com/",
+    "source": "https://github.com/ghulamabidhassan",
+    "image": "./images/vector.jpg"
+  }
+]
