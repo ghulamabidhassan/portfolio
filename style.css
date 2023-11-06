@@ -19,7 +19,7 @@ body {
   font-size: 1em;
   background-color: #f6f9fc;
   /* background-color: rgb(235, 225, 225); */
-  user-select: none;
+  /* user-select: none; */
   position: relative;
 }
 
@@ -128,6 +128,24 @@ nav {
   to {
     background-color: transparent;
   }
+}
+
+.skills-section {
+  display: grid;
+  padding: 2em 0;
+  /* grid-template-columns: 1fr 1fr 1fr; */
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  place-items: center;
+  gap: 2em;
+  row-gap: 4em;
+}
+
+.skill {
+  height: 5em;
+  background-color: transparent;
+  width: 5em;
+  border-radius: 75%;
+  color: blue;
 }
 
 .desc {

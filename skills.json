@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "html",
+    "img": "./svg/html5.svg"
+  },
+  {
+    "id": 2,
+    "name": "css",
+    "img": "./svg/css3.svg"
+  },
+  {
+    "id": 3,
+    "name": "sass",
+    "img": "./svg/sass.svg"
+  },
+  {
+    "id": 4,
+    "name": "javascript",
+    "img": "./svg/js.svg"
+  },
+  {
+    "id": 5,
+    "name": "react",
+    "img": "./svg//react.svg"
+  },
+  {
+    "id": 6,
+    "name": "git",
+    "img": "./svg/git-alt.svg"
+  },
+  {
+    "id": 7,
+    "name": "github",
+    "img": "./svg/github-skill.svg"
+  },
+  {
+    "id": 8,
+    "name": "nodejs",
+    "img": "./svg/node-js.svg"
+  },
+  {
+    "id": 9,
+    "name": "express",
+    "img": "./svg/express-js-icon.svg"
+  },
+  {
+    "id": 10,
+    "name": "serverless",
+    "img": "./svg/serverless-icon.svg"
+  },
+  {
+    "id": 11,
+    "name": "wordpress",
+    "img": "./svg/wordpress.svg"
+  },
+  {
+    "id": 12,
+    "name": "mysql",
+    "img": "./svg/mysql.svg"
+  }
+]

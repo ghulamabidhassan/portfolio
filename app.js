@@ -1,9 +1,11 @@
 import data from "./data.json" assert { type: "json" };
+import skillData from "./skills.json" assert { type: "json" };
 
 const year = document.querySelector(".year");
 const projects = document.querySelector(".project-section");
 const container = document.querySelector(".main");
 const progress = document.querySelector(".progress-line");
+const skillSection = document.querySelector(".skills-section");
 
 const yr = new Date().getFullYear();
 year.textContent = yr;
@@ -52,6 +54,18 @@ const project = data
   .join("");
 
 projects.innerHTML = project;
+
+const Skills = skillData
+  .map((el) => {
+    const { id, name, img } = el;
+
+    return `<article class="skill">
+      <img src=${img} alt=${name} class="html icon-skill" />
+    </article>`;
+  })
+  .join("");
+
+skillSection.innerHTML = Skills;
 
 const animateBar = () => {
   let scrollDistance = -container.getBoundingClientRect().top;
