@@ -19,11 +19,24 @@ body {
   font-size: 1em;
   background-color: #f6f9fc;
   /* background-color: rgb(235, 225, 225); */
+  user-select: none;
+  position: relative;
 }
 
 .container {
   width: 90%;
   margin: auto;
+}
+
+.progress-line {
+  display: inline-block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 0.2em;
+  /* width: 100%; */
+  background-color: blue;
+  transition: 200ms ease-in-out;
 }
 
 nav {
@@ -149,7 +162,8 @@ nav {
 }
 
 .projects {
-  margin: 2em 0;
+  /* margin: 2em 0; */
+  padding: 2em 0 0 0;
 }
 
 .project {

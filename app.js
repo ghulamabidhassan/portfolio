@@ -1,6 +1,9 @@
 import data from "./data.json" assert { type: "json" };
+
 const year = document.querySelector(".year");
 const projects = document.querySelector(".project-section");
+const container = document.querySelector(".main");
+const progress = document.querySelector(".progress-line");
 
 const yr = new Date().getFullYear();
 year.textContent = yr;
@@ -49,3 +52,16 @@ const project = data
   .join("");
 
 projects.innerHTML = project;
+
+const animateBar = () => {
+  let scrollDistance = -container.getBoundingClientRect().top;
+  let progressWidth =
+    (scrollDistance /
+      (container.getBoundingClientRect().height -
+        document.documentElement.clientHeight)) *
+    100;
+  let value = Math.floor(progressWidth);
+  progress.style.width = value + "%";
+};
+
+window.addEventListener("scroll", animateBar);
