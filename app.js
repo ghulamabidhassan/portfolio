@@ -1,5 +1,5 @@
-import data from "./data.json" assert { type: "json" };
-import skillData from "./skills.json" assert { type: "json" };
+import data from "./data.js";
+import skillData from "./skills.js";
 
 const year = document.querySelector(".year");
 const projects = document.querySelector(".project-section");
