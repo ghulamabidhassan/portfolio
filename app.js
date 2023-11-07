@@ -59,8 +59,8 @@ const Skills = skillData
   .map((el) => {
     const { id, name, img } = el;
 
-    return `<article class="skill">
-      <img src=${img} alt=${name} class="html icon-skill" />
+    return `<article id=${id} class="skill ">
+      <img src=${img} alt=${name} class=" icon-skill ${name}" />
     </article>`;
   })
   .join("");

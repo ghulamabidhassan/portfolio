@@ -151,6 +151,12 @@ nav {
   width: 5em;
   border-radius: 75%;
   color: blue;
+  cursor: pointer;
+  transition: 200ms ease-in-out;
+}
+
+.skill:hover {
+  scale: 1.05;
 }
 
 .desc {
@@ -357,6 +363,16 @@ footer > * {
 
 @media screen and (min-width: 1920px) {
   body {
-    font-size: 1.25em;
+    font-size: 1.2em;
   }
+
+  .skills-section {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  }
+}
+
+.javascript {
+  scale: 1;
+  color: blue;
+  fill: green;
 }

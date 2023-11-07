@@ -2,37 +2,37 @@
   {
     "id": 1,
     "name": "html",
-    "img": "./svg/html5.svg"
+    "img": "./svg/htmlpng.png"
   },
   {
     "id": 2,
     "name": "css",
-    "img": "./svg/css3.svg"
+    "img": "./svg/css3.png"
   },
   {
     "id": 3,
     "name": "sass",
-    "img": "./svg/sass.svg"
+    "img": "./svg/sass.png"
   },
   {
     "id": 4,
     "name": "javascript",
-    "img": "./svg/js.svg"
+    "img": "./svg/js.png"
   },
   {
     "id": 5,
     "name": "react",
-    "img": "./svg//react.svg"
+    "img": "./svg//react.png"
   },
   {
     "id": 6,
     "name": "git",
-    "img": "./svg/git-alt.svg"
+    "img": "./svg/git.png"
   },
   {
     "id": 7,
     "name": "github",
-    "img": "./svg/github-skill.svg"
+    "img": "./svg/github.png"
   },
   {
     "id": 8,
@@ -52,7 +52,7 @@
   {
     "id": 11,
     "name": "wordpress",
-    "img": "./svg/wordpress.svg"
+    "img": "./svg/wordpress.png"
   },
   {
     "id": 12,
