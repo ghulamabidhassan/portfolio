@@ -67,6 +67,7 @@ nav {
   transition: 500ms ease-in-out;
   color: #525f7f;
   font-weight: 500;
+  font-size: 0.95em;
 }
 
 .menu:hover {

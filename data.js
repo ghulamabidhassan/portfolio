@@ -2,7 +2,7 @@ const data = [
   {
     id: 1,
     title: "URL shortner",
-    desc: "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    desc: "URL Shortener is a fullstack minimalist web application built with React, Node.js, Mysql and Netlify Functions. Easily shorten long URLs for efficient sharing, and seamlessly redirect users to the original links. Simple, fast, and open-source.",
     stack: [
       "html",
       "css",
@@ -24,7 +24,7 @@ const data = [
   {
     id: 2,
     title: "dev jobs search",
-    desc: "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    desc: "DevJobs Web App is a minimalist job search platform, powered by React.js, Node.js, Express and Neltify functions. It allows users to explore job opportunities by fetching data from Jobs API. Simple, efficient, and developer-friendly.",
     stack: [
       "html",
       "css",
@@ -46,7 +46,7 @@ const data = [
   {
     id: 3,
     title: "github users",
-    desc: "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    desc: "This project is a simple React application that fetches and displays user information from the Github Users API with light and dark mode for the UI.",
     stack: [
       "html",
       "css",
@@ -65,7 +65,7 @@ const data = [
   {
     id: 4,
     title: "movie database",
-    desc: "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    desc: "Explore the Movies Database project, a react project using OMDB api. This API-driven project allows you to discover and retrieve information about various movies, enhancing the development skills in working with external data sources.",
     stack: [
       "html",
       "css",
@@ -84,7 +84,7 @@ const data = [
   {
     id: 5,
     title: "IP address tracker",
-    desc: "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    desc: "This GitHub project, 'Ip-address-tracker', is a React-based challenge from Frontend Mentor. It empowers users to track user location, ISP using IP addresses efficiently. With a clean interface and robust functionality, it's a stellar example of front-end development prowess.",
     stack: ["html", "css", "javascript", "es6", "reactjs", "leaflet maps"],
     demo: "https://iptracker.abidhassan.dev/",
     source:
@@ -94,7 +94,7 @@ const data = [
   {
     id: 6,
     title: "To-do list",
-    desc: "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    desc: "This project is a simple Todo App built using React. It is part of the Frontend Mentor challenges and focuses on building and styling a responsive Todo application.",
     stack: ["html", "css", "javascript", "es6", "react js"],
     demo: "https://todoapp.abidhassan.dev/",
     source:
@@ -104,7 +104,7 @@ const data = [
   {
     id: 7,
     title: "jobs list with filtering",
-    desc: "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    desc: "This GitHub project showcases a React-based solution for Frontend Mentor's 'Jobs Listings with Filtering' challenge. It leverages React to create a dynamic and responsive job listings page, offering a practical example of front-end development skills in action.",
     stack: ["html", "css", "javascript", "es6", "reactjs"],
     demo: "https://jobfilter.abidhassan.dev/",
     source:
@@ -114,7 +114,7 @@ const data = [
   {
     id: 8,
     title: "social media dashboard",
-    desc: "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    desc: "This GitHub project, 'Social Media Dashboard,'' is a React-based solution for Frontend Mentor's challenge. It stylishly tackles the complexities of creating a responsive and dynamic social media dashboard, offering a sleek interface and smooth user interactions.",
     stack: ["html", "css", "javascript", "es6", "reactjs"],
     demo: "https://socialdashboard.abidhassan.dev/",
     source:
@@ -124,7 +124,7 @@ const data = [
   {
     id: 9,
     title: "rock paper scissors game",
-    desc: "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    desc: "This GitHub project, 'Rock-Paper-Scissors Game,' is a React-based implementation from the Frontend Mentor challenges. It showcases interactive and dynamic web development skills, providing a fun and engaging experience for users to play the classic rock-paper-scissors game.",
     stack: ["html", "css", "javascript", "es6", "reactjs"],
     demo: "https://rpsgame.abidhassan.dev/",
     source:
@@ -134,7 +134,7 @@ const data = [
   {
     id: 10,
     title: "calculator",
-    desc: "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    desc: "This GitHub project showcases a responsive calculator app built with React, part of the Frontend Mentor challenges. Explore clean code and UI, with features like arithmetic operations and a dynamic display, perfect for honing React skills.",
     stack: ["html", "css", "javascript", "es6", "reactjs"],
     demo: "https://calci.abidhassan.dev/",
     source:
@@ -145,7 +145,7 @@ const data = [
   {
     id: 11,
     title: "loopstudios landing page",
-    desc: "This project is based off this challenge. Wrangled with styling HighCharts and learned the use of Promises. Data is from the Tradier API. Search autocomplete relies on the lookup endpoint and sometimes runs slow. Please be patient!",
+    desc: "This GitHub project showcases a React implementation of the Loopstudios Landing Page challenge from Frontend Mentor. With a sleek grid layout, it skillfully organizes content, creating an aesthetically pleasing and responsive web design.",
     stack: ["html", "css", "javascript", "es6", "reactjs"],
     demo: "https://loopstudio.abidhassan.dev/",
     source:
