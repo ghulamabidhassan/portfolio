@@ -1,5 +1,29 @@
 const data = [
   {
+    id: 10,
+    title: "Kick X Ecommerce Store",
+    desc: "An e-commerce full stack app built with React for the front end and node.js for the back end with serverless functions along with MySQL for database, and ant-design for UI/UX ( Currently under development ).",
+    stack: [
+      "html",
+      "css",
+      "javascript",
+      "es6",
+      "react js",
+      "react router",
+      "axios",
+      "node js",
+      "express js",
+      "netlify",
+      "serverless",
+      "mysql",
+      "ant-design",
+    ],
+    demo: "https://kickx.abidhassan.dev",
+    source:
+      "https://github.com/ghulamabidhassan/kickX-Ecom-Project/tree/master",
+    image: "./images/vector.jpg",
+  },
+  {
     id: 1,
     title: "URL shortner",
     desc: "URL Shortener is a fullstack minimalist web application built with React, Node.js, Mysql and Netlify Functions. Easily shorten long URLs for efficient sharing, and seamlessly redirect users to the original links. Simple, fast, and open-source.",
