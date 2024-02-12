@@ -17,6 +17,7 @@ const data = [
       "serverless",
       "mongoDB",
       "ant-design",
+      "JWT",
     ],
     demo: "https://kickx.abidhassan.dev",
     source:
@@ -40,8 +41,9 @@ const data = [
       "express js",
       "netlify",
       "serverless",
-      "mysql",
+      "MongoDB",
       "ant-design",
+      "JWT",
     ],
     demo: "https://hrm.abidhassan.dev/",
     source: "https://github.com/ghulamabidhassan/MSJ-HRM",
