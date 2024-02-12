@@ -27,7 +27,7 @@ const data = [
   {
     id: 2,
     title: "MSJ HRM Application",
-    desc: "Developed an innovative Human Resource Management app using the MERN stack (MongoDB, Express.js, React.js, Node.js) with serverless functions. This comprehensive solution streamlines HR processes, offering features such as employee onboarding, performance tracking, and leave management. The incorporation of serverless functions ensures scalability and cost-efficiency, providing a modern, efficient HR management tool.",
+    desc: "Developed an innovative Human Resource Management app using the MERN stack (MongoDB, Express.js, React.js, Node.js) with serverless functions. This comprehensive solution streamlines HR processes, offering features such as employee onboarding, performance tracking, and leave management. The incorporation of serverless functions ensures scalability and cost-efficiency, providing a modern, efficient HR management tool ( Currently under development ).",
     stack: [
       "html",
       "css",
